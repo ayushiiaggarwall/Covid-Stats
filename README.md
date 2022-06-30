@@ -9,4 +9,4 @@ Tech Stack -
   - JavaScript 
   - JQuery
 
-The link for the quiz is https://ayushiiaggarwall.github.io/Covid-Stats/
+The link for the website is https://ayushiiaggarwall.github.io/Covid-Stats/
